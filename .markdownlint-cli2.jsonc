@@ -1,0 +1,17 @@
+{
+  // markdownlint-cli2 configuration
+  // https://github.com/DavidAnson/markdownlint-cli2
+  "config": {
+    "default": true,
+
+    // Prompt libraries often contain long prompt lines.
+    "MD013": false,
+
+    // Allow inline HTML (e.g., optional anchors in generated docs).
+    "MD033": false,
+
+    // Don't require a top-level heading as the first line in every file.
+    "MD041": false
+  }
+}
+
