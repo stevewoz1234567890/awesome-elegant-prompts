@@ -1,0 +1,61 @@
+🚀 20 ChatGPT prompts to boost your productivity
+
+1. Getting Things Done (GTD)
+“I’ve got notes, emails and tasks scattered everywhere. Help me create a GTD-style system to collect, clarify and sort them into next actions, projects or reference.”
+
+2. Pomodoro Technique
+“I need to write a client proposal today. Break it into four 25-minute Pomodoros with clear focus points and what to do during each break.”
+
+3. Eat The Frog
+“I’ve been putting off updating my pitch deck for a week. Help me break it into manageable steps and schedule it as the first thing I do tomorrow.”
+
+4. Time Blocking
+“Plan my workday from 9 to 5 with time blocks for deep work, meetings, admin and breaks. Prioritise creative work in the morning.”
+
+5. Parkinson’s Law
+“I usually spend 2 hours writing my weekly newsletter. Set a tight 45-minute structure with specific time budgets for drafting, editing and formatting.”
+
+6. 80/20 Rule (Pareto Principle)
+“Here’s my task list for this week: [paste tasks]. Show me the top 20 percent that will give me the biggest results and suggest what to defer or skip.”
+
+7. Ivy Lee Method
+“Based on my current goals, help me pick and rank 6 tasks for tomorrow. Only move to the next once the previous one is complete.”
+
+8. MIT (Most Important Task) Method
+“I’ve got 3 key things to do tomorrow: prepare a demo, answer investor questions and plan Q3 content. Which should be my MIT and why?”
+
+9. Zeigarnik Effect
+“I have half-done projects piling up: an onboarding doc, a team handover guide and an automation checklist. Help me prioritise one to finish today to reduce mental clutter.”
+
+10. 2-Minute Rule
+“Here’s a list of 15 small tasks: [paste list]. Tell me which ones I can knock out in under 2 minutes and put them into a ‘Quick Wins’ list.”
+
+11. Time Tracking
+“I want to track how I use my time this week. Help me set up 5 categories like deep work, admin, meetings, distractions and breaks, and build a daily log template.”
+
+12. Daily Highlight
+“Tomorrow’s packed with meetings. Suggest one meaningful highlight task I can fit in that would still make the day feel productive.”
+
+13. SMART Goals
+“I want to grow my LinkedIn following. Turn this into a SMART goal with numbers, timeline and a weekly plan I can follow.”
+
+14. WOOP Method
+“I want to read for 30 minutes every night. Use WOOP to help me make it happen and plan for the nights I’m tired or distracted.”
+
+15. Don’t Break the Chain
+“I want to post daily on X for 30 days. Create a simple streak tracker and give me a quick tip to stay on track when I feel like skipping.”
+
+16. Bullet Journaling
+“Help me start a bullet journal with an index, monthly log and daily log for May. Include page setup ideas and example entries.”
+
+17. Routines and Rituals
+“Build me a 10-minute morning routine that stacks journaling, water, planning and movement. Use clear triggers and order.”
+
+18. Eisenhower Matrix
+“Here are 12 things I need to do this week: [paste list]. Put them into the Eisenhower Matrix and suggest what I can drop or delegate.”
+
+19. Task Batching
+“I have writing, admin and outreach tasks today. Organise them into three batches and create a schedule to handle each with focus.”
+
+20. Weekly Review (GTD-style)
+“Guide me through a Friday review. List what went well, what I didn’t finish, and help me set priorities for next week based on current projects.”
