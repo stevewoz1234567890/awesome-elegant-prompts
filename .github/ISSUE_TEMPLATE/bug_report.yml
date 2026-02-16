@@ -1,0 +1,27 @@
+name: Bug report
+description: Something in the repo is broken (links, formatting, scripts, CI)
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What’s broken?
+      placeholder: "The index generator fails with..."
+    validations:
+      required: true
+  - type: input
+    id: path
+    attributes:
+      label: File path (if applicable)
+      placeholder: "prompts/..."
+    validations:
+      required: false
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. ...\n2. ...\n3. ..."
+    validations:
+      required: false
+

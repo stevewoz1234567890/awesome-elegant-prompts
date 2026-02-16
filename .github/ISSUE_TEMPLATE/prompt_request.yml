@@ -1,0 +1,41 @@
+name: Prompt request
+description: Request a new prompt or a new category
+title: "[Prompt request]: "
+labels: ["prompt request"]
+body:
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: What are you trying to achieve?
+      placeholder: "I want a prompt to..."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / constraints
+      description: Audience, tone, format, model, limits, required sections, etc.
+      placeholder: "- Audience: ...\n- Tone: ...\n- Output format: ...\n- Constraints: ..."
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category (best guess)
+      options:
+        - business
+        - career
+        - writing
+        - productivity
+        - learning
+        - health
+        - travel
+        - finance
+        - design
+        - content
+        - language
+        - other
+    validations:
+      required: true
+
