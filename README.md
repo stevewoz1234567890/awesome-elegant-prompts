@@ -24,7 +24,7 @@
 - **Business & strategy**: negotiation, positioning, side-hustle validation
 - **Career**: resume/cover-letter/LinkedIn/interview prompts
 - **Writing**: human-sounding edits and voice controls
-- **Learning & study**: fast learning workflows, turning videos into skill plans
+- **Learning & study**: fast learning workflows, video-to-skill plans, and Gemini prompts for exam topic prediction from past-paper pattern analysis
 - **Design & visuals**: “how it’s made” visuals and slide generation
 - **Health & habits**: trainer-style planning and reflection prompts
 - **Travel & finance**: pricing analysis + stock analysis frameworks (no advice)
