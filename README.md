@@ -12,22 +12,27 @@
 
 ## Quick start
 
-- **Browse the library**: see [`PROMPTS.md`](PROMPTS.md)
+- **Browse the library**: see [`PROMPTS.md`](PROMPTS.md) — full index (running total and links into `prompts/`)
 - **Pick a prompt**: open a file under [`prompts/`](prompts/)
 - **Fill placeholders**: replace anything inside `[brackets]`
 - **Run + iterate**: paste into your model, then refine with your context
+- **Regenerate the index** after adding files: `python tools/build_index.py`
 
 ---
 
 ## What’s inside
 
-- **Business & strategy**: negotiation, positioning, side-hustle validation
-- **Career**: resume/cover-letter/LinkedIn/interview prompts
+- **Business & strategy**: side-hustle validation, “war room” red-teaming, and **Claude** packs for adversarial startup checks (demand, unit economics, churn, co-founders)
+- **Career**: resume, cover letter, LinkedIn, interviews, and outreach
 - **Writing**: human-sounding edits and voice controls
-- **Learning & study**: fast learning workflows, video-to-skill plans, and Gemini prompts for exam topic prediction from past-paper pattern analysis
-- **Design & visuals**: “how it’s made” visuals and slide generation
-- **Health & habits**: trainer-style planning and reflection prompts
-- **Travel & finance**: pricing analysis + stock analysis frameworks (no advice)
+- **Productivity**: reusable daily planning and execution prompts
+- **Learning & study**: fast learning workflows, video-to-skill plans, studying without expensive courses, and Gemini exam-topic pattern analysis from past papers
+- **Design & visuals**: slide generation (Claude/Grok) and “how it’s made” image prompt packs
+- **Content & language**: YouTube growth prompts; language-coach workflows
+- **Health & habits**: trainer-style planning and structured reflection prompts (not a substitute for professional care)
+- **Mindset**: mental “training” prompts and **Claude** life-blueprint packs (priorities, routines, OKRs, stress tools—verify health/finance choices with professionals)
+- **Travel & finance**: airline pricing analysis; investment-banking-style model prompts and stock analysis frameworks (**no** trading advice)
+- **Entertainment & misc**: legal free streaming discovery; meta-guidance on prompting in 2026; politeness in prompts
 
 ---
 
