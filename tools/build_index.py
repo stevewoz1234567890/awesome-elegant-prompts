@@ -128,6 +128,7 @@ def render_index(items: list[PromptItem]) -> str:
         if not cat_items:
             continue
         lines.append(f"## {cat_title(c)}")
+        lines.append("")
         lines.append(f"<a id=\"{c}\"></a>")
         lines.append("")
         for it in cat_items:

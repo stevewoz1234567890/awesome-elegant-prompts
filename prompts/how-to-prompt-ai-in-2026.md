@@ -7,7 +7,7 @@ tags: ["prompting", "framework", "chatbot", "image", "video"]
 
 ## How to prompt AI in 2026
 
-### CHATBOT – R.T.C.R.O.S.
+### CHATBOT – R.T.C.R.O.S
 
 - **R – Role**
 - **T – Task**
@@ -16,7 +16,7 @@ tags: ["prompting", "framework", "chatbot", "image", "video"]
 - **O – Output**
 - **S – Stop**
 
-### IMAGE – F.R.A.M.E.
+### IMAGE – F.R.A.M.E
 
 - **F – Focus**
 - **R – Rendering**
@@ -24,7 +24,7 @@ tags: ["prompting", "framework", "chatbot", "image", "video"]
 - **M – Medium and Light**
 - **E – Environment**
 
-### VIDEO – S.A.M.E.
+### VIDEO – S.A.M.E
 
 - **S – Scene**
 - **A – Actor**

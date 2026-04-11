@@ -1,4 +1,5 @@
 ## ✨ Awesome Elegant Prompts
+
 ### A curated, practical prompt library you can actually reuse
 
 > Copy, customize, and ship better outputs from ChatGPT/Claude/Gemini/Grok — with prompts organized by real-world use cases.

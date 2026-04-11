@@ -24,6 +24,7 @@
 ---
 
 ## Business
+
 <a id="business"></a>
 
 - [Fatal startup vulnerability prompts (Claude)](prompts/business/startup-fatal-vulnerability-claude.md) — Eight adversarial prompts to stress-test demand, competition, timing, unit economics, interviews, hiring, churn, and co-founder alignment before you build the wrong thing.
@@ -32,23 +33,27 @@
 - [War Room mode (ruthless business strategy)](prompts/business/war-room-strategy.md) — Red-team your plan, negotiate better, and make high-stakes decisions with structured prompts.
 
 ## Career
+
 <a id="career"></a>
 
 - [Job search: get more interviews](prompts/career/job-search-more-interviews.md) — Resume, cover letter, LinkedIn, interview, outreach, and follow-ups — with reusable prompts.
 - [Mnookin Two-Pager interview agent (Never Search Alone)](prompts/career/mnookin-two-pager-never-search-alone.md) — Structured interview instructions to draft a Mnookin Two-Pager—loves, hates, must-haves, must-nots, and goals—for networking and job search (ChatGPT or Claude).
 
 ## Writing
+
 <a id="writing"></a>
 
 - [Human-sounding writing (Claude)](prompts/writing/claude-human-like-writing.md) — 10 prompts to make outputs sound conversational instead of robotic.
 - [Humanize AI-written text](prompts/writing/humanize-ai-text.md) — Rewrite AI-sounding drafts into natural, human, confident writing.
 
 ## Productivity
+
 <a id="productivity"></a>
 
 - [Productivity: 20 prompts](prompts/productivity/productivity-20-prompts.md) — GTD, Pomodoro, time blocking, reviews, and planning prompts you can reuse daily.
 
 ## Learning
+
 <a id="learning"></a>
 
 - [Learn anything faster](prompts/learning/learn-anything-10x-faster.md) — Prompts for simplifying concepts, building practice plans, and testing understanding.
@@ -57,6 +62,7 @@
 - [Turn YouTube tutorials into a skill plan](prompts/learning/youtube-to-skill-plan.md) — Extract a skill tree, learning plan, workflows, and practice exercises from any video.
 
 ## Health
+
 <a id="health"></a>
 
 - [12-week periodised lifting plan (Claude)](prompts/health/ultimate-training-programme-claude.md) — Detailed prompt for a print-ready 12-week hypertrophy-strength programme: split, sessions, tempo, progression, and deloads for intermediate natural lifters.
@@ -64,17 +70,20 @@
 - [Personal trainer at home](prompts/health/personal-trainer-chatgpt.md) — Fitness and nutrition planning prompts for home workouts, meals, and habit tracking.
 
 ## Travel
+
 <a id="travel"></a>
 
 - [Airline pricing analysis prompts](prompts/travel/airline-pricing-analysis.md) — Framework prompts to compare routes, timing, and platforms while avoiding ToS-breaking tactics.
 
 ## Finance
+
 <a id="finance"></a>
 
 - [Investment banking financial models (Claude)](prompts/finance/investment-banking-financial-models-claude.md) — 5 Claude prompts for DCF, three-statement model, M&A accretion/dilution, LBO, and trading comps.
 - [Stock analysis (without trading advice)](prompts/finance/stock-analysis-without-trading-advice.md) — Fundamental/technical frameworks, risk planning, and screening prompts — no buy/sell recommendations.
 
 ## Design
+
 <a id="design"></a>
 
 - [Create presentations fast (Grok)](prompts/design/presentations-with-grok.md) — Generate slide structure, content, visuals, and polish for a full deck.
@@ -82,27 +91,32 @@
 - [‘How it’s made’ visuals (image prompt pack)](prompts/design/how-its-made-visual-prompts.md) — 10 clean infographic-style prompts for explaining how everyday things are made.
 
 ## Content
+
 <a id="content"></a>
 
 - [YouTube growth + monetization prompts](prompts/content/youtube-make-money-grok.md) — Ideas, scripts, SEO, hooks, and a 30-day growth plan for a YouTube channel.
 
 ## Language
+
 <a id="language"></a>
 
 - [Language coach prompts (Grok)](prompts/language/language-coach-grok.md) — Practical speaking-first language learning prompts without textbook jargon.
 
 ## Entertainment
+
 <a id="entertainment"></a>
 
 - [Free home cinema (legal)](prompts/entertainment/free-home-cinema-legal.md) — Prompts to find legal free streaming options, discover movies, and improve playback quality.
 
 ## Mindset
+
 <a id="mindset"></a>
 
 - [Life blueprint prompts (Claude)](prompts/mindset/life-blueprint-claude.md) — Eight structured prompts for priorities, relationships, income mapping, health habits, purpose, daily rhythm, OKRs, and stress regulation—framed as a full-life blueprint.
 - [Mindset: 10 prompts to ‘rewire’ your brain](prompts/mindset/rewire-your-brain-10-prompts.md) — Prompts for learning, strategy, self-awareness, and planning — framed as mental training exercises.
 
 ## Misc
+
 <a id="misc"></a>
 
 - [How to prompt AI in 2026](prompts/how-to-prompt-ai-in-2026.md) — Three quick frameworks for chatbot, image, and video prompting.

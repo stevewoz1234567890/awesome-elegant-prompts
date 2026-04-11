@@ -11,7 +11,16 @@
     "MD033": false,
 
     // Don't require a top-level heading as the first line in every file.
-    "MD041": false
+    "MD041": false,
+
+    // Prompt packs often use explicit 1. 2. 3. numbering for readability.
+    "MD029": false,
+
+    // Templates and generated index tolerate an extra blank line at EOF.
+    "MD012": false,
+
+    // Occasional intentional single trailing space (e.g. line breaks) in templates.
+    "MD009": false
   }
 }
 
