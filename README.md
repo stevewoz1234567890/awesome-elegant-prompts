@@ -17,7 +17,7 @@
 - **Pick a prompt**: open a file under [`prompts/`](prompts/)
 - **Fill placeholders**: replace anything inside `[brackets]`
 - **Run + iterate**: paste into your model, then refine with your context
-- **Regenerate the index** after adding files: `python tools/build_index.py`
+- **Regenerate the index** after adding files: `python3 tools/build_index.py`
 
 ---
 
@@ -28,7 +28,7 @@
 - **Writing**: human-sounding edits and voice controls
 - **Productivity**: reusable daily planning and execution prompts
 - **Learning & study**: fast learning workflows, video-to-skill plans, studying without expensive courses, and Gemini exam-topic pattern analysis from past papers
-- **Design & visuals**: slide generation (Claude/Grok) and “how it’s made” image prompt packs
+- **Design & visuals**: slide generation — **ChatGPT** seven-pack (TED-style, deep research, beginner-friendly, pitch, storytelling, corporate, slides + script), plus Claude/Grok decks and “how it’s made” image prompt packs
 - **Content & language**: YouTube growth prompts; language-coach workflows
 - **Health & habits**: trainer-style planning and structured reflection prompts (not a substitute for professional care)
 - **Mindset**: mental “training” prompts and **Claude** life-blueprint packs (priorities, routines, OKRs, stress tools—verify health/finance choices with professionals)
@@ -43,7 +43,7 @@ Want to add a great prompt?
 
 - Read [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - Use the template: [`prompts/_template.md`](prompts/_template.md)
-- Update the index: run `python tools/build_index.py`
+- Update the index: run `python3 tools/build_index.py`
 
 ---
 
