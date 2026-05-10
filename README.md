@@ -29,7 +29,7 @@
 - **Productivity**: reusable daily planning and execution prompts
 - **Learning & study**: fast learning workflows, video-to-skill plans, studying without expensive courses, and Gemini exam-topic pattern analysis from past papers
 - **Design & visuals**: slide generation — **ChatGPT** seven-pack (TED-style, deep research, beginner-friendly, pitch, storytelling, corporate, slides + script), plus Claude/Grok decks and “how it’s made” image prompt packs
-- **Content & language**: YouTube growth prompts; language-coach workflows
+- **Content & language**: YouTube growth prompts; language-coach workflows; **French fast track** — six copy-paste prompts (lessons, flashcards, conversation, grammar, quizzes, immersion)
 - **Health & habits**: trainer-style planning and structured reflection prompts (not a substitute for professional care)
 - **Mindset**: mental “training” prompts and **Claude** life-blueprint packs (priorities, routines, OKRs, stress tools—verify health/finance choices with professionals)
 - **Travel & finance**: airline pricing analysis; investment-banking-style model prompts and stock analysis frameworks (**no** trading advice)
