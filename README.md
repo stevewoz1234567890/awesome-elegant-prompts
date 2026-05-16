@@ -27,7 +27,7 @@
 - **Career**: resume, cover letter, LinkedIn, interviews, and outreach
 - **Writing**: human-sounding edits and voice controls
 - **Productivity**: reusable daily planning and execution prompts; **transform everyday life** — ten daily **Claude** prompts (prioritization, reading, voice, meetings, editing, decisions, negotiation, learning, critique, second brain)
-- **Learning & study**: fast learning workflows, video-to-skill plans, studying without expensive courses, and Gemini exam-topic pattern analysis from past papers
+- **Learning & study**: fast learning workflows, video-to-skill plans, studying without expensive courses, and Gemini exam-topic pattern analysis from past papers; **learn anything 10x faster** — seven **Gemini** prompts (Feynman, first principles, active recall, spaced repetition, frameworks, roadmaps, weakness diagnostics)
 - **Design & visuals**: slide generation — **ChatGPT** seven-pack (TED-style, deep research, beginner-friendly, pitch, storytelling, corporate, slides + script), plus Claude/Grok decks and “how it’s made” image prompt packs
 - **Content & language**: YouTube growth prompts; language-coach workflows; **French fast track** — six copy-paste prompts (lessons, flashcards, conversation, grammar, quizzes, immersion)
 - **Health & habits**: trainer-style planning and structured reflection prompts (not a substitute for professional care)
