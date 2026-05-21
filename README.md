@@ -33,7 +33,7 @@
 - **Health & habits**: trainer-style planning and structured reflection prompts (not a substitute for professional care)
 - **Mindset**: mental “training” prompts and **Claude** life-blueprint packs (priorities, routines, OKRs, stress tools—verify health/finance choices with professionals)
 - **Travel & finance**: airline pricing analysis; investment-banking-style model prompts and stock analysis frameworks (**no** trading advice)
-- **Entertainment & misc**: legal free streaming discovery; meta-guidance on prompting in 2026; **Claude** prompt scaffold (XML sections, few-shot examples, long-document layout) aligned with [Anthropic’s prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices); politeness in prompts
+- **Entertainment & misc**: legal free streaming discovery; meta-guidance on prompting in 2026; **five things to make every prompt better** (context, examples, anti-patterns, clarifying questions, iteration); **Claude** prompt scaffold (XML sections, few-shot examples, long-document layout) aligned with [Anthropic’s prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices); politeness in prompts
 
 ---
 
