@@ -1,13 +1,27 @@
-## ✨ Awesome Elegant Prompts
+Awesome Elegant Prompts — AI-SEO & GEO Prompt Library
 
-### A curated, practical prompt library you can actually reuse
+### AI prompts for AI-SEO, GEO, and AI content optimization
 
-> Copy, customize, and ship better outputs from ChatGPT/Claude/Gemini/Grok — with prompts organized by real-world use cases.
+> Copy, customize, and ship better AI-optimized content for search and discovery — with prompts organized by real-world use cases and tuned for ChatGPT/Claude/Gemini/Grok.
 
 [![Stars](https://img.shields.io/github/stars/stevewoz1234567890/awesome-elegant-prompts?style=social)](https://github.com/stevewoz1234567890/awesome-elegant-prompts/stargazers)
 [![Forks](https://img.shields.io/github/forks/stevewoz1234567890/awesome-elegant-prompts?style=social)](https://github.com/stevewoz1234567890/awesome-elegant-prompts/network/members)
 [![License](https://img.shields.io/github/license/stevewoz1234567890/awesome-elegant-prompts)](LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/stevewoz1234567890/awesome-elegant-prompts)](https://github.com/stevewoz1234567890/awesome-elegant-prompts/commits/main)
+
+---
+
+## Why this repo matters for AI-SEO / GEO
+
+Search is no longer just about keywords and backlinks. AI models now rewrite, summarize, and rank content before humans even see it.
+
+This repo helps you:
+
+- Design prompts that generate AI-ready content structures (headlines, outlines, FAQs, schemas, briefs)
+- Align human-readable copy with AI-readable patterns for GEO / AI-SEO
+- Reuse proven prompt patterns across ChatGPT, Claude, Gemini, and Grok instead of reinventing them every time
+
+If you work in SEO, GEO, content strategy, or growth and you’re using LLMs, this library gives you a starting point that’s already structured for real-world workflows.
 
 ---
 
@@ -23,6 +37,8 @@
 
 ## What’s inside
 
+These prompts are not generic “write an article” templates. They’re structured workflows you can plug into AI-SEO / GEO pipelines.
+
 - **Business & strategy**: side-hustle validation, “war room” red-teaming, and **Claude** packs for adversarial startup checks (demand, unit economics, churn, co-founders)
 - **Career**: resume, cover letter, LinkedIn, interviews, and outreach
 - **Writing**: human-sounding edits and voice controls; **email prompts** — seven **ChatGPT** prompts (professional rewrite, cold outreach, replies, apologies, follow-ups, simplification, sales)
@@ -37,6 +53,19 @@
 
 ---
 
+## How to use this for AI-SEO / GEO
+
+You can plug these prompts into typical AI-SEO / GEO workflows:
+
+- **Content briefs**: generate structured outlines, H1–H3 hierarchies, FAQs, and internal-link suggestions
+- **On-page optimization**: rewrite titles, meta descriptions, intros, and conclusions to match search intent while staying human
+- **Localization / GEO**: adapt prompts for region-specific tone, examples, and constraints while keeping structure consistent
+- **AI content QA**: use prompts to critique AI-generated drafts for factuality, clarity, and alignment with your brand or SEO strategy
+
+Treat each prompt as a reusable building block in your AI-SEO stack.
+
+---
+
 ## Contributing
 
 Want to add a great prompt?
@@ -44,6 +73,12 @@ Want to add a great prompt?
 - Read [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - Use the template: [`prompts/_template.md`](prompts/_template.md)
 - Update the index: run `python3 tools/build_index.py`
+
+Focus areas that are especially welcome:
+
+- AI-SEO / GEO-specific workflows (briefs, outlines, SERP analysis, content refreshes)
+- AI content QA and editorial review prompts
+- Localization and multi-market content prompts
 
 ---
 
