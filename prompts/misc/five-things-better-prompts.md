@@ -31,6 +31,8 @@ Before you let it produce anything, ask it to clarify what it does not understan
 
 Beginners get a bad output, throw it away, and write a new prompt from scratch. Operators read the bad output, figure out what was missing or wrong, and adjust the prompt instead of the chat. The prompt is the asset. Build it, save it, reuse it. After a few rounds of refining one prompt, you will not need to write that kind of prompt from scratch ever again.
 
+When a reply is wrong mid-chat, avoid "you're wrong" and "are you sure?"—those often make models cave or flip correct answers. Use a directed follow-up instead: see [Seven follow-ups instead of "you're wrong"](seven-follow-ups-instead-of-youre-wrong.md).
+
 ## What to do this week
 
 Pick one task you do with AI regularly. Apply all 5 of these to it.
