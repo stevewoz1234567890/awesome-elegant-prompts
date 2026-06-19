@@ -194,5 +194,6 @@ Answer in three short bullets, then wait for my go-ahead.
 
 ## Related prompts in this repo
 
+- [Claude Code: 6 maintenance loops](./claude-code-six-maintenance-loops.md) — paste-ready loops for types, tests, dead code, deps, migrations, and lint
 - [Claude at work: 9 prompts](../productivity/claude-at-work-nine-prompts.md) — context briefs and long-session hygiene
 - [Five things to make every prompt better](../misc/five-things-better-prompts.md) — tighter prompts mean fewer retries (and fewer tokens)

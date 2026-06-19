@@ -33,6 +33,7 @@ If you are a professional, creator, or developer looking to get the absolute bes
 - **Run + iterate**: paste into your model, then refine with your context
 - **Regenerate the index** after adding files: `python3 tools/build_index.py`
 - **AI coding on a budget**: [`prompts/development/ai-coding-seven-token-habits.md`](prompts/development/ai-coding-seven-token-habits.md) — seven habits (clear context, compact early, model matching, subagents, scripts, lean rules)
+- **Maintenance loops for agents**: [`prompts/development/claude-code-six-maintenance-loops.md`](prompts/development/claude-code-six-maintenance-loops.md) — six paste-ready loops (types, coverage, dead code, deps, migrations, lint) with verify-after-each-step exit criteria
 - **Contributing with Cursor Agent**: lean [`AGENTS.md`](AGENTS.md) + `python3 tools/token_stats.py` to audit context file size
 
 ---
@@ -51,7 +52,7 @@ These prompts are not generic templates. They are highly structured workflows de
 - **Health & habits**: trainer-style planning and structured reflection prompts (not a substitute for professional care)
 - **Mindset**: mental “training” prompts and **Claude** life-blueprint packs (priorities, routines, OKRs, stress tools—verify health/finance choices with professionals)
 - **Travel & finance**: airline pricing analysis; investment-banking-style model prompts and stock analysis frameworks (**no** trading advice)
-- **Development & AI coding**: seven token-cost habits for Claude Code and Cursor—clear context, compact at 60%, match the model, subagents for heavy reads, deterministic scripts, lean `AGENTS.md`/`CLAUDE.md`, usage checks before each task
+- **Development & AI coding**: seven token-cost habits for Claude Code and Cursor—clear context, compact at 60%, match the model, subagents for heavy reads, deterministic scripts, lean `AGENTS.md`/`CLAUDE.md`, usage checks before each task; **six maintenance loops** — paste-ready iterate-until-done instructions for TypeScript errors, test coverage, dead code, dependency updates, pattern migration, and lint fixes
 - **Entertainment & misc**: legal free streaming discovery; meta-guidance on prompting in 2026; **five things to make every prompt better** (context, examples, anti-patterns, clarifying questions, iteration); **seven follow-ups instead of “you're wrong”** — direct the model with a job, not a verdict, when answers cave or drift (Anthropic sycophancy research); **Claude** prompt scaffold (XML sections, few-shot examples, long-document layout) aligned with [Anthropic’s prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices); politeness in prompts
 
 ---
