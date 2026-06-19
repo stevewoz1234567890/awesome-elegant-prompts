@@ -39,6 +39,12 @@ python tools/build_index.py
 
 Your PR should include the updated `PROMPTS.md`.
 
+### Agent / IDE context (Cursor, Claude Code)
+
+- **Lean always-on rules:** keep root [`AGENTS.md`](AGENTS.md) under ~200 lines; put detailed agent guidance in [`docs/agents/`](docs/agents/) and load when relevant.
+- **Audit token weight:** `python tools/token_stats.py` (add `--check` in CI-style verification).
+- **Workflow habits:** see [`prompts/development/ai-coding-seven-token-habits.md`](prompts/development/ai-coding-seven-token-habits.md).
+
 ### Safety notes (important)
 
 - **Mental health**: If a prompt touches therapy-like content, include a short note that it’s not a substitute for professional care, and add a crisis disclaimer.

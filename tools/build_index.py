@@ -92,6 +92,7 @@ def render_index(items: list[PromptItem]) -> str:
         "language",
         "entertainment",
         "mindset",
+        "development",
         "misc",
     ]
     categories = {i.category for i in items}

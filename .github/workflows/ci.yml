@@ -20,6 +20,9 @@ jobs:
       - name: Check prompt index is up to date
         run: python tools/build_index.py --check
 
+      - name: Check AGENTS.md stays lean
+        run: python tools/token_stats.py --check
+
       - name: Markdown lint
         uses: DavidAnson/markdownlint-cli2-action@v18
         with:
